@@ -6,3 +6,6 @@
 [Michael Hartl](http://www.michaelhartl.com/)著
 
 2016 04 01 start
+
+4/2 11:30
+3.2.1 静的なページの生成 now
